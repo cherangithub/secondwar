@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello digitalnest </h2>
+<h2>Hello digital </h2>
 </body>
 </html>
